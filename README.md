@@ -1,10 +1,6 @@
-Here’s a **clean, professional, GitHub‑ready `README.md`** for your project **`githubautomated_commit_tool`**, written in a style that works well for open‑source and personal tooling repos.
 
-You can copy‑paste this directly.
 
-***
-
-# 🤖 GitHub Automated Commit Tool
+# 🤖 Git Automated Commit Tool
 
 Automatically generate high‑quality Git commit messages using **Claude API (Anthropic)** based on your **staged Git changes**.
 
